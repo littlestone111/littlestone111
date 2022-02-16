@@ -3,6 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 1 hr 3 mins
+
 Python   1 hr 3 mins     █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
