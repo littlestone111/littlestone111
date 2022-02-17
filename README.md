@@ -3,9 +3,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 3 mins
+Total: 2 hrs 24 mins
 
-Python   1 hr 3 mins     █████████████████████████   100.00 % 
+Python       2 hrs 8 mins    ██████████████████████▒░░   89.19 % 
+JavaScript   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
 
