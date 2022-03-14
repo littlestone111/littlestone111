@@ -4,7 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Perl     2 mins          ████████████████████████▒   97.38 %
+Python   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
