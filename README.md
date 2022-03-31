@@ -4,10 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML         7 hrs 5 mins    ████████▓░░░░░░░░░░░░░░░░   35.26 %
-JavaScript   4 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   23.93 %
-Python       4 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
-Other        2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+YAML         7 hrs 5 mins    ███████████░░░░░░░░░░░░░░   43.74 %
+Python       4 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
+Other        2 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
 ```
 
 <!--END_SECTION:waka-->
