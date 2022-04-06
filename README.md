@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other      36 mins         ███████████░░░░░░░░░░░░░░   44.63 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
