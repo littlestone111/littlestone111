@@ -4,9 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   14 mins         ███████████████████████▓░   94.29 %
-HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+JavaScript   14 mins         ████████████████████████▒   96.69 %
+HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
